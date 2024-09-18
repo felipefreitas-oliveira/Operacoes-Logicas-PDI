@@ -31,7 +31,7 @@ public class And {
             }
         }
 
-        ImageIO.write(newImgAnd, "jpg", new File("src/imgAnd.jpg"));
+        ImageIO.write(newImgAnd, "jpg", new File("src/Img-Final/imgAnd.jpg"));
 
     }
 }

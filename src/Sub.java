@@ -62,6 +62,6 @@ public class Sub {
             }
         }
 
-        ImageIO.write(newImgSub, "jpg", new File("src/imgSUB.jpg"));
+        ImageIO.write(newImgSub, "jpg", new File("src/Img-Final/imgSUB.jpg"));
     }
 }

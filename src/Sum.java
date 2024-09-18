@@ -62,6 +62,6 @@ public class Sum {
             }
         }
 
-        ImageIO.write(newImgSum, "jpg", new File("src/imgSUM.jpg"));
+        ImageIO.write(newImgSum, "jpg", new File("src/Img-Final/imgSUM.jpg"));
     }
 }

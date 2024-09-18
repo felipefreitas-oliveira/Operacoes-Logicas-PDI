@@ -31,7 +31,7 @@ public class Or {
             }
         }
 
-        ImageIO.write(newImgAnd, "jpg", new File("src/imgOr.jpg"));
+        ImageIO.write(newImgAnd, "jpg", new File("src/Img-Final/imgOr.jpg"));
 
     }
 }

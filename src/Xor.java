@@ -31,7 +31,7 @@ public class Xor {
             }
         }
 
-        ImageIO.write(newImgAnd, "jpg", new File("src/imgXor.jpg"));
+        ImageIO.write(newImgAnd, "jpg", new File("src/Img-Final/imgXor.jpg"));
 
     }
 }
